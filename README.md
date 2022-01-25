@@ -24,7 +24,7 @@ can build it with `cargo build --release` and launch it like any other cumulus p
 Make sure to specify `--chain nimbus`.
 
 Rather than reiterate how to start a relay-para network here, I'll simply recommend you use the
-excellent [Polkadot Launch](https://github.com/paritytech/polkadot-launch) tool. This repo was tested with version 1.4.1.
+excellent [Polkadot Launch](https://github.com/purestake/polkadot-launch) tool. This repo was tested with version 1.4.1.
 A [lauch config file](./parachain-template/polkadot-launch/config.json) is provided.
 
 ```bash
